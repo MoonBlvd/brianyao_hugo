@@ -2,12 +2,12 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Categories on Yu&#39;s personal website</title>
-    <link>https://github.com/moonblvd/brianyao_hugo/docs/categories/</link>
+    <link>https://moonblvd.github.io/brianyao_hugo/categories/</link>
     <description>Recent content in Categories on Yu&#39;s personal website</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
     <copyright>&amp;copy; 2016 Your Name</copyright>
-    <atom:link href="/moonblvd/brianyao_hugo/docs/categories/" rel="self" type="application/rss+xml" />
+    <atom:link href="/brianyao_hugo/categories/" rel="self" type="application/rss+xml" />
     
   </channel>
 </rss>
