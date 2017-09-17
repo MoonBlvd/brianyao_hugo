@@ -1,3 +1,5 @@
+title = "My website"
+baseURL = "https://moonblvd.github.io/brianyao_hugo/"
 publishDir = "docs"
 languageCode = "en-us"
 title = "Prologue"
