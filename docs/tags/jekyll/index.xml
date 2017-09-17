@@ -2,23 +2,23 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Jekyll on Yu&#39;s personal website</title>
-    <link>https://moonblvd.github.io/tags/jekyll/</link>
+    <link>https://github.com/moonblvd/brianyao_hugo/docs/tags/jekyll/</link>
     <description>Recent content in Jekyll on Yu&#39;s personal website</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
     <copyright>&amp;copy; 2016 Your Name</copyright>
     <lastBuildDate>Mon, 10 Mar 2014 00:00:00 -0400</lastBuildDate>
-    <atom:link href="/tags/jekyll/" rel="self" type="application/rss+xml" />
+    <atom:link href="/moonblvd/brianyao_hugo/docs/tags/jekyll/" rel="self" type="application/rss+xml" />
     
     <item>
       <title>Migrate from Jekyll to Hugo</title>
-      <link>https://moonblvd.github.io/post/migrate-from-jekyll/</link>
+      <link>https://github.com/moonblvd/brianyao_hugo/docs/post/migrate-from-jekyll/</link>
       <pubDate>Mon, 10 Mar 2014 00:00:00 -0400</pubDate>
       
-      <guid>https://moonblvd.github.io/post/migrate-from-jekyll/</guid>
+      <guid>https://github.com/moonblvd/brianyao_hugo/docs/post/migrate-from-jekyll/</guid>
       <description>
 
-&lt;p&gt;Here are a few tips for migrating an existing website from Jekyll to Hugo. These tips can be applied in conjunction with following Hugo Academic&amp;rsquo;s &lt;a href=&#34;https://moonblvd.github.io/post/getting-started/&#34; target=&#34;_blank&#34;&gt;getting started guide&lt;/a&gt;.&lt;/p&gt;
+&lt;p&gt;Here are a few tips for migrating an existing website from Jekyll to Hugo. These tips can be applied in conjunction with following Hugo Academic&amp;rsquo;s &lt;a href=&#34;https://github.com/moonblvd/brianyao_hugo/docs/post/getting-started/&#34; target=&#34;_blank&#34;&gt;getting started guide&lt;/a&gt;.&lt;/p&gt;
 
 &lt;h2 id=&#34;move-static-content-to-static&#34;&gt;Move static content to &lt;code&gt;static&lt;/code&gt;&lt;/h2&gt;
 

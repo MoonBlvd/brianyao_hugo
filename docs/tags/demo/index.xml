@@ -2,20 +2,20 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Demo on Yu&#39;s personal website</title>
-    <link>https://moonblvd.github.io/tags/demo/</link>
+    <link>https://github.com/moonblvd/brianyao_hugo/docs/tags/demo/</link>
     <description>Recent content in Demo on Yu&#39;s personal website</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
     <copyright>&amp;copy; 2016 Your Name</copyright>
     <lastBuildDate>Wed, 27 Apr 2016 00:00:00 +0000</lastBuildDate>
-    <atom:link href="/tags/demo/" rel="self" type="application/rss+xml" />
+    <atom:link href="/moonblvd/brianyao_hugo/docs/tags/demo/" rel="self" type="application/rss+xml" />
     
     <item>
       <title>External Project</title>
-      <link>https://moonblvd.github.io/project/example-external-project/</link>
+      <link>https://github.com/moonblvd/brianyao_hugo/docs/project/example-external-project/</link>
       <pubDate>Wed, 27 Apr 2016 00:00:00 +0000</pubDate>
       
-      <guid>https://moonblvd.github.io/project/example-external-project/</guid>
+      <guid>https://github.com/moonblvd/brianyao_hugo/docs/project/example-external-project/</guid>
       <description></description>
     </item>
     
