@@ -1,14 +1,14 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes" ?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>Prologue</title>
-    <link>https://moonblvd.github.io/brianyao_hugo/</link>
-    <description>Recent content on Prologue</description>
+    <title>My personal website test</title>
+    <link>http://example.org/</link>
+    <description>Recent content on My personal website test</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
     <copyright>Untitled.</copyright>
     
-	<atom:link href="https://moonblvd.github.io/brianyao_hugo/index.xml" rel="self" type="application/rss+xml" />
+	<atom:link href="http://example.org/index.xml" rel="self" type="application/rss+xml" />
     
     
   </channel>

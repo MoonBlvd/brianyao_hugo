@@ -1,13 +1,12 @@
-baseURL = "https://moonblvd.github.io/brianyao_hugo/"
-publishDir = "docs"
 languageCode = "en-us"
-title = "Prologue"
-baseurl = "http://moonblvd.github.io/brianyao_hugo"
+publishDir = "docs"
+title = "My personal website test"
+baseurl = "http://example.org/"
 theme = "prologue"
 
 [params]
-  name = "Yu Yao"
-  description = "PhD student"
+  name = "Jane Doe"
+  description = "Hyperspace Engineer"
   copyright = "Untitled."
 
 [[params.social]]
@@ -38,7 +37,7 @@ theme = "prologue"
 # Portfolio column one
 
 [[params.portfolio1]]
-  title = "Smart Black Box"
+  title = "Ipsum Feugiat"
   alt = ""
   source = "img/pic02.jpg"
   url = "#"
