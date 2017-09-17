@@ -2,29 +2,29 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Publication_types on Yu&#39;s personal website</title>
-    <link>https://moonblvd.github.io/brianyao_website/docs/publication_types/</link>
+    <link>https://moonblvd.github.io/brianyao_website/publication_types/</link>
     <description>Recent content in Publication_types on Yu&#39;s personal website</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
     <copyright>&amp;copy; 2016 Your Name</copyright>
     <lastBuildDate>Mon, 01 Jul 2013 00:00:00 +0000</lastBuildDate>
-    <atom:link href="/brianyao_website/docs/publication_types/" rel="self" type="application/rss+xml" />
+    <atom:link href="/brianyao_website/publication_types/" rel="self" type="application/rss+xml" />
     
     <item>
       <title>1</title>
-      <link>https://moonblvd.github.io/brianyao_website/docs/publication_types/1/</link>
+      <link>https://moonblvd.github.io/brianyao_website/publication_types/1/</link>
       <pubDate>Mon, 01 Jul 2013 00:00:00 +0000</pubDate>
       
-      <guid>https://moonblvd.github.io/brianyao_website/docs/publication_types/1/</guid>
+      <guid>https://moonblvd.github.io/brianyao_website/publication_types/1/</guid>
       <description></description>
     </item>
     
     <item>
       <title>2</title>
-      <link>https://moonblvd.github.io/brianyao_website/docs/publication_types/2/</link>
+      <link>https://moonblvd.github.io/brianyao_website/publication_types/2/</link>
       <pubDate>Tue, 01 Sep 2015 00:00:00 +0000</pubDate>
       
-      <guid>https://moonblvd.github.io/brianyao_website/docs/publication_types/2/</guid>
+      <guid>https://moonblvd.github.io/brianyao_website/publication_types/2/</guid>
       <description></description>
     </item>
     

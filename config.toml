@@ -1,5 +1,5 @@
-baseurl = "https://moonblvd.github.io/brianyao_website/docs/"  # End your URL with a `/` trailing slash.
-publishDir = "docs/"
+baseurl = "https://moonblvd.github.io/brianyao_website/"  # End your URL with a `/` trailing slash.
+publishDir = "docs"
 title = "Yu's personal website"
 copyright = "&copy; 2016 Your Name"
 theme = "academic"
