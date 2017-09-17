@@ -1,13 +1,14 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes" ?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>About on My website</title>
-    <link>https://moonblvd.github.io/brianyao_hugo/about/</link>
-    <description>Recent content in About on My website</description>
+    <title>About on Prologue</title>
+    <link>http://moonblvd.github.io/brianyao_hugo/about/</link>
+    <description>Recent content in About on Prologue</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
+    <copyright>Untitled.</copyright>
     
-	<atom:link href="https://moonblvd.github.io/brianyao_hugo/about/index.xml" rel="self" type="application/rss+xml" />
+	<atom:link href="http://moonblvd.github.io/brianyao_hugo/about/index.xml" rel="self" type="application/rss+xml" />
     
     
   </channel>

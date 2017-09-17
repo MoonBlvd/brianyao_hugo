@@ -1,28 +1,77 @@
-title = "My website"
-baseURL = "https://moonblvd.github.io/brianyao_hugo"
 publishDir = "docs"
 languageCode = "en-us"
-theme = "ananke"
-themesDir = "themes/"
-
-MetaDataFormat = "yaml"
-DefaultContentLanguage = "en"
-SectionPagesMenu = "main"
-Paginate = 3 # this is set low for demonstrating with dummy content. Set to a higher number
-googleAnalytics = ""
-enableRobotsTXT = true
-
-[sitemap]
-  changefreq = "monthly"
-  priority = 0.5
-  filename = "sitemap.xml"
+title = "Prologue"
+baseurl = "http://moonblvd.github.io/brianyao_hugo"
+theme = "prologue"
 
 [params]
-  description = "What is going on??."
-  facebook = ""
-  twitter = "https://twitter.com/GoHugoIO"
-  instagram = ""
-  youtube = ""
-  # choose a background color from any on this page: http://tachyons.io/docs/themes/skins/ and preface it with "bg-"
-  background_color_class = "bg-black"
-  featured_image = "/images/gohugo-default-sample-hero-image.jpg"
+  name = "Yu Yao"
+  description = "PhD student"
+  copyright = "Untitled."
+
+[[params.social]]
+  medium = "twitter"
+  icon = "twitter"
+  link = "#"
+
+[[params.social]]
+  medium = "facebook"
+  icon = "facebook"
+  link = "#"
+
+[[params.social]]
+  medium = "github"
+  icon = "github"
+  link = "#"
+
+[[params.social]]
+  medium = "dribbble"
+  icon = "dribbble"
+  link = "#"
+
+[[params.social]]
+  medium = "email"
+  icon = "envelope"
+  link = "#"
+
+# Portfolio column one
+
+[[params.portfolio1]]
+  title = "Smart Black Box"
+  alt = ""
+  source = "img/pic02.jpg"
+  url = "#"
+
+[[params.portfolio1]]
+  title = "Rhoncus Semper"
+  alt = ""
+  source = "img/pic03.jpg"
+  url = "#"
+
+# Portfolio column two
+
+[[params.portfolio2]]
+  title = "Magna Nullam"
+  alt = ""
+  source = "img/pic04.jpg"
+  url = "#"
+
+[[params.portfolio2]]
+  title = "Natoque Vitae"
+  alt = ""
+  source = "img/pic05.jpg"
+  url = "#"
+
+# Portfolio column 3
+
+[[params.portfolio3]]
+  title = "Dolor Penatibus"
+  alt = ""
+  source = "img/pic06.jpg"
+  url = "#"
+
+[[params.portfolio3]]
+  title = "Orci Convallis"
+  alt = ""
+  source = "img/pic07.jpg"
+  url = "#"
