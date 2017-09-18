@@ -5,6 +5,7 @@ title = "Yu's personal website"
 copyright = "&copy; 2016 Your Name"
 theme = "academic"
 enableEmoji = true
+draft = false
 footnotereturnlinkcontents = "<sup>^</sup>"
 
 # Enable comments by entering your Disqus shortname
