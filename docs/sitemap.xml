@@ -23,8 +23,8 @@
     
     <url>
     
-      <loc>https://moonblvd.github.io/brianyao_hugo/post/</loc>
-      <lastmod>2017-01-01T00:00:00-05:00</lastmod>
+      <loc>https://moonblvd.github.io/brianyao_hugo/talk/poster-aiaa2017/</loc>
+      <lastmod>2017-07-27T00:00:00+00:00</lastmod>
     </url>
     
   
@@ -33,15 +33,6 @@
     <url>
     
       <loc>https://moonblvd.github.io/brianyao_hugo/tags/academic/</loc>
-      <lastmod>2017-01-01T00:00:00+00:00</lastmod>
-    </url>
-    
-  
-    
-    
-    <url>
-    
-      <loc>https://moonblvd.github.io/brianyao_hugo/talk/example-talk/</loc>
       <lastmod>2017-01-01T00:00:00+00:00</lastmod>
     </url>
     
@@ -95,53 +86,8 @@
     
     <url>
     
-      <loc>https://moonblvd.github.io/brianyao_hugo/post/getting-started/</loc>
-      <lastmod>2017-09-03T00:00:00-04:00</lastmod>
-    </url>
-    
-  
-    
-    
-    <url>
-    
-      <loc>https://moonblvd.github.io/brianyao_hugo/post/widgets/</loc>
-      <lastmod>2016-04-19T00:00:00-04:00</lastmod>
-    </url>
-    
-  
-    
-    
-    <url>
-    
-      <loc>https://moonblvd.github.io/brianyao_hugo/post/managing-content/</loc>
-      <lastmod>2016-04-18T00:00:00-04:00</lastmod>
-    </url>
-    
-  
-    
-    
-    <url>
-    
-      <loc>https://moonblvd.github.io/brianyao_hugo/post/writing-markdown-latex/</loc>
-      <lastmod>2016-04-17T00:00:00-04:00</lastmod>
-    </url>
-    
-  
-    
-    
-    <url>
-    
       <loc>https://moonblvd.github.io/brianyao_hugo/publication/ceds-mps/</loc>
       <lastmod>2015-10-22T00:00:00+00:00</lastmod>
-    </url>
-    
-  
-    
-    
-    <url>
-    
-      <loc>https://moonblvd.github.io/brianyao_hugo/post/migrate-from-jekyll/</loc>
-      <lastmod>2014-03-10T00:00:00-04:00</lastmod>
     </url>
     
   
@@ -170,26 +116,6 @@
     
       <loc>https://moonblvd.github.io/brianyao_hugo/tags/current/</loc>
       <lastmod>2017-09-17T00:00:00+00:00</lastmod>
-      <priority>0</priority>
-    </url>
-    
-  
-    
-    
-    <url>
-    
-      <loc>https://moonblvd.github.io/brianyao_hugo/tags/hugo/</loc>
-      <lastmod>2017-09-03T00:00:00-04:00</lastmod>
-      <priority>0</priority>
-    </url>
-    
-  
-    
-    
-    <url>
-    
-      <loc>https://moonblvd.github.io/brianyao_hugo/tags/jekyll/</loc>
-      <lastmod>2014-03-10T00:00:00-04:00</lastmod>
       <priority>0</priority>
     </url>
     
