@@ -7,25 +7,27 @@
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
     <copyright>&amp;copy; 2016 Your Name</copyright>
-    <lastBuildDate>Wed, 27 Apr 2016 00:00:00 +0000</lastBuildDate>
+    <lastBuildDate>Wed, 14 Sep 2016 00:00:00 +0000</lastBuildDate>
     <atom:link href="/brianyao_hugo/tags/previous/" rel="self" type="application/rss+xml" />
     
     <item>
-      <title>RGBD SLAM</title>
+      <title>Variable Autonomy SUAS For NAS Integration</title>
+      <link>https://moonblvd.github.io/brianyao_hugo/project/nasa-airplane/</link>
+      <pubDate>Wed, 14 Sep 2016 00:00:00 +0000</pubDate>
+      
+      <guid>https://moonblvd.github.io/brianyao_hugo/project/nasa-airplane/</guid>
+      <description>&lt;p&gt;The overall project goal was to identify and track another small UAS that sporadically flew into andacross  the  field  of  view.&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>Human Activity Recognition based on Recurrent Neural Network</title>
       <link>https://moonblvd.github.io/brianyao_hugo/project/lstm/</link>
       <pubDate>Wed, 27 Apr 2016 00:00:00 +0000</pubDate>
       
       <guid>https://moonblvd.github.io/brianyao_hugo/project/lstm/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>RGBD SLAM</title>
-      <link>https://moonblvd.github.io/brianyao_hugo/project/nasa-airplane/</link>
-      <pubDate>Wed, 27 Apr 2016 00:00:00 +0000</pubDate>
-      
-      <guid>https://moonblvd.github.io/brianyao_hugo/project/nasa-airplane/</guid>
-      <description></description>
+      <description>&lt;p&gt;Human activity recognition uses heterogeneous sensors to capture the state of user and environment. This has wide use in heath-related application such as health monitoring and athlete training. This project proposes a promising human activity recognition approach based on long-short term memory (LSTM) method using the smartphone inertial sensor data. Different kinds of network configuration are tested and explored in our experiment. A comparison with traditional machine learning method is also given in this paper.&lt;/p&gt;
+</description>
     </item>
     
     <item>

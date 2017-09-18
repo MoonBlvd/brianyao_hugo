@@ -3,13 +3,13 @@
 date = "2016-04-27"
 
 # Project title.
-title = "RGBD SLAM"
+title = "Human Activity Recognition based on Recurrent Neural Network"
 
 # Project summary to display on homepage.
-summary = "A simultaneous localization and mapping (SLAM) project using RGB-D data from a Microsoft Kinect."
+summary = "This project proposes a promising human activity recognition approach based on long-short term memory (LSTM) method using the smartphone inertial sensor data."
 
 # Optional image to display on homepage (relative to `static/img/` folder).
-image_preview = "publications/rgbd-slam.png"
+image_preview = "publications/lstm-structure.png"
 
 # Tags: can be used for filtering projects.
 # Example: `tags = ["machine-learning", "deep-learning"]`
@@ -21,5 +21,10 @@ tags = ["previous"]
 # Does the project detail page use math formatting?
 math = true
 
+[header]
+image = "publications/lstm-structure.png"
+caption = "Structure of the recurrent neural network model."
+
 +++
 
+Human activity recognition uses heterogeneous sensors to capture the state of user and environment. This has wide use in heath-related application such as health monitoring and athlete training. This project proposes a promising human activity recognition approach based on long-short term memory (LSTM) method using the smartphone inertial sensor data. Different kinds of network configuration are tested and explored in our experiment. A comparison with traditional machine learning method is also given in this paper.
