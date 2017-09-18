@@ -1,23 +1,14 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes" ?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>Projects on Yu&#39;s personal website</title>
-    <link>https://moonblvd.github.io/brianyao_hugo/project/</link>
-    <description>Recent content in Projects on Yu&#39;s personal website</description>
+    <title>Previous on Yu&#39;s personal website</title>
+    <link>https://moonblvd.github.io/brianyao_hugo/tags/previous/</link>
+    <description>Recent content in Previous on Yu&#39;s personal website</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
     <copyright>&amp;copy; 2016 Your Name</copyright>
-    <lastBuildDate>Sun, 17 Sep 2017 00:00:00 +0000</lastBuildDate>
-    <atom:link href="/brianyao_hugo/project/" rel="self" type="application/rss+xml" />
-    
-    <item>
-      <title>Smart Black Box</title>
-      <link>https://moonblvd.github.io/brianyao_hugo/project/smart-black-box/</link>
-      <pubDate>Sun, 17 Sep 2017 00:00:00 +0000</pubDate>
-      
-      <guid>https://moonblvd.github.io/brianyao_hugo/project/smart-black-box/</guid>
-      <description></description>
-    </item>
+    <lastBuildDate>Wed, 27 Apr 2016 00:00:00 +0000</lastBuildDate>
+    <atom:link href="/brianyao_hugo/tags/previous/" rel="self" type="application/rss+xml" />
     
     <item>
       <title>RGBD SLAM</title>
