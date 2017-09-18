@@ -18,6 +18,10 @@ url_project = "project/deep-learning/"
 url_slides = ""
 url_video = ""
 
+[header]
+image = "publications/shell-future-highways-new.jpeg"
+caption = "My caption :smile:"
+
 +++
 
 More detail can easily be written here using *Markdown* and $\rm \LaTeX$ math code.
