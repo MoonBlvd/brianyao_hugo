@@ -1,14 +1,13 @@
 +++
-abstract = "We present a mobile visual clothing search system whereby a smart phone user can either choose a social networking photo or take a new photo of a person wearing clothing of interest and search for similar clothing in a retail database. From the query image, the person is detected, clothing is segmented, and clothing features are extracted and quantized. The information is sent from the phone client to a server, where the feature vector of the query image is used to retrieve similar clothing products from online databases. The phone's GPS location is used to re-rank results by retail store location. State of the art work focuses primarily on the recognition of a diverse range of clothing offline and pays little attention to practical applications. Evaluated on a challenging dataset, the system is relatively fast and achieves promising results."
-abstract_short = "A mobile visual clothing search system is presented whereby a smart phone user can either choose a social networking image or capture a new photo of a person wearing clothing of interest and search for similar clothing in a large cloud-based ecommerce database. The phone's GPS location is used to re-rank results by retail store location, to inform the user of local stores where similar clothing items can be tried on."
+abstract = "As a promising metamodel based design optimization (MBDO) method, the mode-pursuing sampling (MPS) method is developed to solve modern engineering design optimization problems with expensive simulations. However, the efficiency and convergence performance of the original MPS significantly decays as dimensionality of the underlying optimization problem grows. In this article, the limitation of MPS in efficiency and global exploration capability are firstly discussed. Then, in order to improve the overall performance of MPS, an enhanced mode-pursuing sampling method using contracting-expanding design space based MPS, as named CEDS-MPS, is proposed. In the proposed CEDS-MPS method, a contracting-expanding mechanism is used to intelligently identify the promising region for accelerating local exploitation and improving global exploration. Several well-known low-dimensional and high dimensional benchmark problems are applied to test CEDS-MPS through comparison with the original MPS and some other existing MBDO methods. The optimal solution, number of function evaluation and CPU time consumption are recorded for comparison. The comparison results indicate that CEDS-MPS outperforms the original MPS and other competitors in terms of local exploitation ability, global exploration capability, and efficiency performance."
 authors = ["Yu Yao", "Teng Long", "Kambiz Haji Hajikolaei", "G. Gary Wang"]
 date = "2015-10-22"
 image_preview = ""
 math = true
 publication_types = ["1"]
 publication = "In *International Manufacturing Conference in China (IMCC)*, IEEE."
-publication_short = "In *ICMEW*"
-selected = true
+publication_short = "In *IMCC*"
+selected = false
 title = "An Enhanced Mode-Pursuing Sampling Method with Contracting-Expamding Design Space Mechanism"
 url_code = "#"
 url_dataset = "#"
