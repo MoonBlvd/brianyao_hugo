@@ -9,16 +9,12 @@ publication = "In *International Manufacturing Conference in China (IMCC)*, IEEE
 publication_short = "In *IMCC*"
 selected = false
 title = "An Enhanced Mode-Pursuing Sampling Method with Contracting-Expamding Design Space Mechanism"
-url_code = "#"
-url_dataset = "#"
+url_code = ""
+url_dataset = ""
 url_pdf = ""
 url_project = "project/deep-learning/"
-url_slides = "#"
-url_video = "#"
-
-[[url_custom]]
-name = "Custom Link"
-url = "http://www.example.org"
+url_slides = ""
+url_video = ""
 
 # Optional featured image (relative to `static/img/` folder).
 [header]
