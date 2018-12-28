@@ -12,12 +12,19 @@ weight = 1
 # List your academic interests.
 [interests]
   interests = [
-    "Anomaly detection",
-    "Intelligent transportation system",
-    "Artificial Intelligence"
+    "Deep Learning and Bayesian Learning",
+    "Computer Vision",
+    "Anomaly Detection",
+    "Game Theory and Reinforcement Learning",
+    "Intelligent transportation system"
   ]
 
 # List your qualifications (such as academic degrees).
+[[education.courses]]
+  course = "Ph.D. in Robotics"
+  institution = "University of Michigan"
+  year = present
+
 [[education.courses]]
   course = "M.S. in Robotics"
   institution = "University of Michigan"
@@ -32,6 +39,6 @@ weight = 1
 
 # Biography
 
-Yu Yao is a second year PhD student in Robotcs at the A2sys Lab, University of Michigan. His research interests include anomaly detection in cyber-physical system(CPS), intelligent transportation system and vision-based object detection/tracking. He is also interested in advanced Artificial Intelligence topics such as generative adversarial network (GAN) and differentiable neural computer (DNC).
+Yu Yao is a Fourth year PhD student in Robotcs at the A2sys Lab, University of Michigan. His research interests include deep learning, bayesian learning, and computer vision. He is specifically focusing on vision-based prediction and spatio-temporal event detection and the applications in intelligent transportation systems (e.g. autonomous vehicles). He is also interested in advanced Artificial Intelligence topics such as game theory and deep reinforcement learning.
 
  
