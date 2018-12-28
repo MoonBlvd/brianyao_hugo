@@ -7,15 +7,42 @@
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
     <copyright>&amp;copy; 2016 Your Name</copyright>
-    <lastBuildDate>Fri, 15 Sep 2017 00:00:00 +0000</lastBuildDate>
+    <lastBuildDate>Sun, 04 Nov 2018 00:00:00 +0000</lastBuildDate>
     <atom:link href="/brianyao_hugo/publication_types/1/" rel="self" type="application/rss+xml" />
     
     <item>
+      <title>Smart Black Box: A Value-Driven Automotive Event Data Recorder</title>
+      <link>https://moonblvd.github.io/brianyao_hugo/publication/smart_black_box_itsc2018/</link>
+      <pubDate>Sun, 04 Nov 2018 00:00:00 +0000</pubDate>
+      
+      <guid>https://moonblvd.github.io/brianyao_hugo/publication/smart_black_box_itsc2018/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>The Smart Black Box: A Value-Driven High-Bandwidth Automotive Event Data Recorder</title>
+      <link>https://moonblvd.github.io/brianyao_hugo/publication/smart_black_box_tits/</link>
+      <pubDate>Fri, 26 Oct 2018 00:00:00 +0000</pubDate>
+      
+      <guid>https://moonblvd.github.io/brianyao_hugo/publication/smart_black_box_tits/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Egocentric Vision-based Future Vehicle Localization for Intelligent Driving Assistance Systems</title>
+      <link>https://moonblvd.github.io/brianyao_hugo/publication/future_vehicle_localiation/</link>
+      <pubDate>Sat, 15 Sep 2018 00:00:00 +0000</pubDate>
+      
+      <guid>https://moonblvd.github.io/brianyao_hugo/publication/future_vehicle_localiation/</guid>
+      <description></description>
+    </item>
+    
+    <item>
       <title>Smart Black Box: A Value-Driven Event Data Recorder for Advanced and Autonomous Vehicles (Submitted)</title>
-      <link>https://moonblvd.github.io/brianyao_hugo/publication/smart_black_box/</link>
+      <link>https://moonblvd.github.io/brianyao_hugo/publication/smart_black_box_2017/</link>
       <pubDate>Fri, 15 Sep 2017 00:00:00 +0000</pubDate>
       
-      <guid>https://moonblvd.github.io/brianyao_hugo/publication/smart_black_box/</guid>
+      <guid>https://moonblvd.github.io/brianyao_hugo/publication/smart_black_box_2017/</guid>
       <description>&lt;p&gt;More detail can easily be written here using &lt;em&gt;Markdown&lt;/em&gt; and $\rm \LaTeX$ math code.&lt;/p&gt;
 </description>
     </item>

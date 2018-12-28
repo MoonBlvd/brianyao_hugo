@@ -23,7 +23,7 @@ weight = 1
 [[education.courses]]
   course = "Ph.D. in Robotics"
   institution = "University of Michigan"
-  year = present
+  year = 2020
 
 [[education.courses]]
   course = "M.S. in Robotics"

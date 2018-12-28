@@ -214,7 +214,7 @@
 
 <h1 id="biography">Biography</h1>
 
-<p>Yu Yao is a second year PhD student in Robotcs at the A2sys Lab, University of Michigan. His research interests include anomaly detection in cyber-physical system(CPS), intelligent transportation system and vision-based object detection/tracking. He is also interested in advanced Artificial Intelligence topics such as generative adversarial network (GAN) and differentiable neural computer (DNC).</p>
+<p>Yu Yao is a Fourth year PhD student in Robotcs at the A2sys Lab, University of Michigan. His research interests include deep learning, bayesian learning, and computer vision. He is specifically focusing on vision-based prediction and spatio-temporal event detection and the applications in intelligent transportation systems (e.g. autonomous vehicles). He is also interested in advanced Artificial Intelligence topics such as game theory and deep reinforcement learning.</p>
 
 
     <div class="row">
@@ -224,11 +224,15 @@
         <h3>Interests</h3>
         <ul class="ul-interests">
           
-          <li>Anomaly detection</li>
+          <li>Deep Learning and Bayesian Learning</li>
+          
+          <li>Computer Vision</li>
+          
+          <li>Anomaly Detection</li>
+          
+          <li>Game Theory and Reinforcement Learning</li>
           
           <li>Intelligent transportation system</li>
-          
-          <li>Artificial Intelligence</li>
           
         </ul>
       </div>
@@ -238,6 +242,14 @@
       <div class="col-sm-7">
         <h3>Education</h3>
         <ul class="ul-edu fa-ul">
+          
+          <li>
+            <i class="fa-li fa fa-graduation-cap"></i>
+            <div class="description">
+              <p class="course">Ph.D. in Robotics, 2020</p>
+              <p class="institution">University of Michigan</p>
+            </div>
+          </li>
           
           <li>
             <i class="fa-li fa fa-graduation-cap"></i>
@@ -290,7 +302,7 @@
     
 
     <div class="col-md-12">
-      <a href="https://moonblvd.github.io/brianyao_hugo/publication/smart_black_box/">
+      <a href="https://moonblvd.github.io/brianyao_hugo/publication/smart_black_box_itsc2018/">
         <img src="/brianyao_hugo/img/publications/shell-future-highways-new.jpeg" class="pub-banner" itemprop="image">
       </a>
     </div>
@@ -299,24 +311,24 @@
     
 
       <h3 class="article-title" itemprop="name">
-        <a href="https://moonblvd.github.io/brianyao_hugo/publication/smart_black_box/" itemprop="url">Smart Black Box: A Value-Driven Event Data Recorder for Advanced and Autonomous Vehicles (Submitted)</a>
+        <a href="https://moonblvd.github.io/brianyao_hugo/publication/smart_black_box_itsc2018/" itemprop="url">Smart Black Box: A Value-Driven Automotive Event Data Recorder</a>
       </h3>
 
       <div class="pub-abstract" itemprop="text">
         
-        Autonomous vehicles require reliable and resilient sensor suites and ongoing validation through fleet-wide data collection. This paper proposes a Smart Black Box (SBB) to augment traditional low-bandwidth data storage logging with value-driven high-bandwidth data capture. Data time histories associated with unexpected signals, high-risk, or anomalous conditions are stored in long-term memory and later uplinked to the cloud. This paper proposes and applies anomaly detection metrics for identifying high-value driving data. A series of driving tests with raw data capture and an off-the-shelf automotive driver assistance system enables data analysis with respect to object identification accuracy and completeness.
+        Autonomous vehicles require reliable and resilient sensor suites and ongoing validation through fleet-wide data collection. This paper proposes a Smart Black Box (SBB) to augment traditional low-bandwidth data logging with value-driven high-bandwidth data capture. The SBB caches short-term data in buffers and determines the compression quality for each frame by optimizing the trade-off between data value and storage cost. With finite storage, prioritized data recording discards low-value buffers to make room for new data. This paper formulates SBB data compression decision making as a constrained multi-objective optimization problem with novel data filtering and value estimation metrics. A traffic simulator generates trajectories containing events of interest. SBB compression efficiency is assessed by comparing storage requirements with different compression quality levels and event capture ratios. Performance is evaluated by comparing results with a traditional first-in-first-out recording scheme.
         
       </div>
 
       <div class="pub-authors" itemprop="author">
         
-        Yu Yao
+        Yu Yao, Ella M Atkins
         
       </div>
 
       <div class="pub-publication">
         
-        ICRA2018
+        ITSC2018
         
       </div>
 
@@ -325,7 +337,75 @@
 
 
 
-<a class="btn btn-primary btn-outline btn-xs" href="https://moonblvd.github.io/brianyao_hugo/publication/smart_black_box/">
+<a class="btn btn-primary btn-outline btn-xs" href="https://moonblvd.github.io/brianyao_hugo/publication/smart_black_box_itsc2018/">
+  Details
+</a>
+
+
+<a class="btn btn-primary btn-outline btn-xs" href="https://ieeexplore.ieee.org/stamp/stamp.jsp?arnumber=8569253">
+  PDF
+</a>
+
+
+
+
+
+
+<a class="btn btn-primary btn-outline btn-xs" href="https://moonblvd.github.io/brianyao_hugo/project/SBB/">
+  Project
+</a>
+
+
+
+      </div>
+
+    </div>
+  </div>
+</div>
+
+    
+    <div class="pub-list-item" itemscope itemtype="http://schema.org/CreativeWork">
+  <div class="row">
+
+    
+
+    <div class="col-md-12">
+      <a href="https://moonblvd.github.io/brianyao_hugo/publication/smart_black_box_tits/">
+        <img src="/brianyao_hugo/img/publications/SBB_FSM_diagram.png" class="pub-banner" itemprop="image">
+      </a>
+    </div>
+    <div class="col-md-12">
+
+    
+
+      <h3 class="article-title" itemprop="name">
+        <a href="https://moonblvd.github.io/brianyao_hugo/publication/smart_black_box_tits/" itemprop="url">The Smart Black Box: A Value-Driven High-Bandwidth Automotive Event Data Recorder</a>
+      </h3>
+
+      <div class="pub-abstract" itemprop="text">
+        
+        Autonomous vehicles require reliable and resilient sensor suites and ongoing validation through fleet-wide data collection. This paper proposes a Smart Black Box (SBB) to augment traditional low-bandwidth data logging with value-driven high-bandwidth data capture. The SBB caches short-term histories of data as buffers through a deterministic Mealy machine based on data value and similarity. Compression quality for each frame is determined by optimizing the trade-off between value and storage cost. With finite storage, prioritized data recording discards low-value buffers to make room for new data. This paper formulates SBB compression decision making as a constrained multi-objective optimization problem with novel value metrics and filtering. The SBB has been evaluated on a traffic simulator which generates trajectories containing events of interest (EOIs) and corresponding first-person view videos. SBB compression efficiency is assessed by comparing storage requirements with different compression quality levels and event capture ratios. Performance is evaluated by comparing results with a traditional first-in-first-out (FIFO) recording scheme. Deep learning performance on images recorded at different compression levels is evaluated to illustrate the reproducibility of SBB recorded data.
+        
+      </div>
+
+      <div class="pub-authors" itemprop="author">
+        
+        Yu Yao, Ella M Atkins
+        
+      </div>
+
+      <div class="pub-publication">
+        
+        T-ITS
+        
+      </div>
+
+      <div class="pub-links">
+        
+
+
+
+<a class="btn btn-primary btn-outline btn-xs" href="https://moonblvd.github.io/brianyao_hugo/publication/smart_black_box_tits/">
   Details
 </a>
 
@@ -335,7 +415,75 @@
 
 
 
-<a class="btn btn-primary btn-outline btn-xs" href="https://moonblvd.github.io/brianyao_hugo/project/deep-learning/">
+<a class="btn btn-primary btn-outline btn-xs" href="https://moonblvd.github.io/brianyao_hugo/project/SBB/">
+  Project
+</a>
+
+
+
+      </div>
+
+    </div>
+  </div>
+</div>
+
+    
+    <div class="pub-list-item" itemscope itemtype="http://schema.org/CreativeWork">
+  <div class="row">
+
+    
+
+    <div class="col-md-12">
+      <a href="https://moonblvd.github.io/brianyao_hugo/publication/future_vehicle_localiation/">
+        <img src="/brianyao_hugo/img/publications/fvl_1.jpg" class="pub-banner" itemprop="image">
+      </a>
+    </div>
+    <div class="col-md-12">
+
+    
+
+      <h3 class="article-title" itemprop="name">
+        <a href="https://moonblvd.github.io/brianyao_hugo/publication/future_vehicle_localiation/" itemprop="url">Egocentric Vision-based Future Vehicle Localization for Intelligent Driving Assistance Systems</a>
+      </h3>
+
+      <div class="pub-abstract" itemprop="text">
+        
+        Predicting the future location of vehicles is essential for safety-critical applications such as advanced driver assistance systems (ADAS) and autonomous driving. This paper introduces a novel approach to simultaneously predict both the location and scale of target vehicles in the first-person (egocentric) view of an ego-vehicle. We present a multi-stream recurrent neural network (RNN) encoder-decoder model that separately captures both object location and scale and pixel-level observations for future vehicle localization. We show that incorporating dense optical flow improves prediction results significantly since it captures information about motion as well as appearance change. We also find that explicitly modeling future motion of the ego-vehicle improves the prediction accuracy, which could be especially beneficial in intelligent and automated vehicles that have motion planning capability. To evaluate the performance of our approach, we present a new dataset of first-person videos collected from a variety of scenarios at road intersections, which are particularly challenging moments for prediction because vehicle trajectories are diverse and dynamic.
+        
+      </div>
+
+      <div class="pub-authors" itemprop="author">
+        
+        Yu Yao, Mingze Xu, Chiho Choi, David J Crandall, Ella M Atkins, Behzad Dariush
+        
+      </div>
+
+      <div class="pub-publication">
+        
+        ICRA2019
+        
+      </div>
+
+      <div class="pub-links">
+        
+
+
+
+<a class="btn btn-primary btn-outline btn-xs" href="https://moonblvd.github.io/brianyao_hugo/publication/future_vehicle_localiation/">
+  Details
+</a>
+
+
+<a class="btn btn-primary btn-outline btn-xs" href="https://arxiv.org/pdf/1809.07408.pdf">
+  PDF
+</a>
+
+
+
+
+
+
+<a class="btn btn-primary btn-outline btn-xs" href="https://moonblvd.github.io/brianyao_hugo/project/FVL/">
   Project
 </a>
 
@@ -379,12 +527,98 @@
       
       <li itemscope itemtype="http://schema.org/CreativeWork">
   <i class="fa-li fa fa-file-text-o pub-icon" aria-hidden="true"></i>
+  <span itemprop="name">Smart Black Box: A Value-Driven Automotive Event Data Recorder</span>
+  <p>
+
+
+
+<a class="btn btn-primary btn-outline btn-xs" href="https://moonblvd.github.io/brianyao_hugo/publication/smart_black_box_itsc2018/">
+  Details
+</a>
+
+
+<a class="btn btn-primary btn-outline btn-xs" href="https://ieeexplore.ieee.org/stamp/stamp.jsp?arnumber=8569253">
+  PDF
+</a>
+
+
+
+
+
+
+<a class="btn btn-primary btn-outline btn-xs" href="https://moonblvd.github.io/brianyao_hugo/project/SBB/">
+  Project
+</a>
+
+
+</p>
+</li>
+
+      
+      <li itemscope itemtype="http://schema.org/CreativeWork">
+  <i class="fa-li fa fa-file-text-o pub-icon" aria-hidden="true"></i>
+  <span itemprop="name">The Smart Black Box: A Value-Driven High-Bandwidth Automotive Event Data Recorder</span>
+  <p>
+
+
+
+<a class="btn btn-primary btn-outline btn-xs" href="https://moonblvd.github.io/brianyao_hugo/publication/smart_black_box_tits/">
+  Details
+</a>
+
+
+
+
+
+
+
+<a class="btn btn-primary btn-outline btn-xs" href="https://moonblvd.github.io/brianyao_hugo/project/SBB/">
+  Project
+</a>
+
+
+</p>
+</li>
+
+      
+      <li itemscope itemtype="http://schema.org/CreativeWork">
+  <i class="fa-li fa fa-file-text-o pub-icon" aria-hidden="true"></i>
+  <span itemprop="name">Egocentric Vision-based Future Vehicle Localization for Intelligent Driving Assistance Systems</span>
+  <p>
+
+
+
+<a class="btn btn-primary btn-outline btn-xs" href="https://moonblvd.github.io/brianyao_hugo/publication/future_vehicle_localiation/">
+  Details
+</a>
+
+
+<a class="btn btn-primary btn-outline btn-xs" href="https://arxiv.org/pdf/1809.07408.pdf">
+  PDF
+</a>
+
+
+
+
+
+
+<a class="btn btn-primary btn-outline btn-xs" href="https://moonblvd.github.io/brianyao_hugo/project/FVL/">
+  Project
+</a>
+
+
+</p>
+</li>
+
+      
+      <li itemscope itemtype="http://schema.org/CreativeWork">
+  <i class="fa-li fa fa-file-text-o pub-icon" aria-hidden="true"></i>
   <span itemprop="name">Smart Black Box: A Value-Driven Event Data Recorder for Advanced and Autonomous Vehicles (Submitted)</span>
   <p>
 
 
 
-<a class="btn btn-primary btn-outline btn-xs" href="https://moonblvd.github.io/brianyao_hugo/publication/smart_black_box/">
+<a class="btn btn-primary btn-outline btn-xs" href="https://moonblvd.github.io/brianyao_hugo/publication/smart_black_box_2017/">
   Details
 </a>
 
