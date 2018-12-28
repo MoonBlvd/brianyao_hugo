@@ -24,3 +24,4 @@ I've takeing following courses in University of Michigan:
 - EECS592: Artificial Intelligence Foundations
 - EECS692: Advanced Artificial Intelligence
 - EECS542: Advanced Topics in Computer Vision
+- EECS598: Reinforcement Learning

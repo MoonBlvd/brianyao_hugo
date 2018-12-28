@@ -10,7 +10,7 @@ publication_types = ["1"]
 publication = "2018 21st International Conference on Intelligent Transportation Systems (ITSC)"
 publication_short = "ITSC2018"
 selected = true
-title = "Smart Black Box: A Value-Driven Automotive Event Data Recorder"
+title = "The Smart Black Box: A Value-Driven Automotive Event Data Recorder"
 url_code = ""
 url_dataset = ""
 url_pdf = "https://ieeexplore.ieee.org/stamp/stamp.jsp?arnumber=8569253"
