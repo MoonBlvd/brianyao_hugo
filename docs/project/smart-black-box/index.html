@@ -143,7 +143,7 @@
   
 <div class="article-header">
   <img src="/brianyao_hugo/img/publications/sbb-proj-background.png" class="article-banner" itemprop="image">
-  <span class="article-header-caption">My caption 😄</span>
+  <span class="article-header-caption">The Smart Black Box pipeline. A deterministic Mealy mahcine is use as buffer management. The compressed simulation images are tested with object detection and semantic segmentation.</span>
 </div>
 
 
@@ -201,7 +201,12 @@
     
 
     <div class="article-style" itemprop="articleBody">
-      
+      <p>We are proposing the pipeline of a value-driven evernt data recorder for advanced and autonomous vehicles, called the Smart Black Box.</p>
+
+<p>The system captures raw data from on-board sensors (high-bandwidth sources such as cameras and LiDARs and low-bandwidth sources such as CAN Bus). The data is processs by some event detectors and the data value is computed from the information contect of the event. A deterministic Mealy machine is applied to determine when to start and stop buffering data according to data value, data similarity, and buffer size limitation. Each data buffer is compressed using a compression factor computed from a local buffer optimization (LBO) process. The LBO optimizes the trade-off between data value and storage cost.</p>
+
+<p>We evaluate the reproducibility of the Smart Black Box compressed data by applying them to computer vision tasks such as object detection and semantic segmentation. The result shows that the Smart Black Box records data with less than 10% of the original storage cost while the object detection and semantic segmentation tasks could still achieve over 90% mAPs.</p>
+
     </div>
 
   </div>
