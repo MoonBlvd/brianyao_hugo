@@ -7,33 +7,42 @@
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
     <copyright>&amp;copy; 2016 Your Name</copyright>
-    <lastBuildDate>Sun, 04 Nov 2018 00:00:00 +0000</lastBuildDate>
+    <lastBuildDate>Sun, 03 Nov 2019 00:00:00 +0000</lastBuildDate>
     <atom:link href="/brianyao_hugo/publication_types/1/" rel="self" type="application/rss+xml" />
     
     <item>
-      <title>The Smart Black Box: A Value-Driven Automotive Event Data Recorder</title>
-      <link>https://moonblvd.github.io/brianyao_hugo/publication/smart_black_box_itsc2018/</link>
-      <pubDate>Sun, 04 Nov 2018 00:00:00 +0000</pubDate>
+      <title>Realtime Rooftop Landing Site Identification and Selection in Urban City Simulation</title>
+      <link>https://moonblvd.github.io/brianyao_hugo/publication/url2019iros/</link>
+      <pubDate>Sun, 03 Nov 2019 00:00:00 +0000</pubDate>
       
-      <guid>https://moonblvd.github.io/brianyao_hugo/publication/smart_black_box_itsc2018/</guid>
+      <guid>https://moonblvd.github.io/brianyao_hugo/publication/url2019iros/</guid>
       <description></description>
     </item>
     
     <item>
-      <title>The Smart Black Box: A Value-Driven High-Bandwidth Automotive Event Data Recorder</title>
-      <link>https://moonblvd.github.io/brianyao_hugo/publication/smart_black_box_tits/</link>
-      <pubDate>Fri, 26 Oct 2018 00:00:00 +0000</pubDate>
+      <title>Unsupervised Traffic Accident Detection in First-Person Videos</title>
+      <link>https://moonblvd.github.io/brianyao_hugo/publication/tad2019iros/</link>
+      <pubDate>Sun, 03 Nov 2019 00:00:00 +0000</pubDate>
       
-      <guid>https://moonblvd.github.io/brianyao_hugo/publication/smart_black_box_tits/</guid>
+      <guid>https://moonblvd.github.io/brianyao_hugo/publication/tad2019iros/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Egocentric Vision-based Future Vehicle Localization for Intelligent Driving Assistance Systems</title>
-      <link>https://moonblvd.github.io/brianyao_hugo/publication/future_vehicle_localiation/</link>
-      <pubDate>Sat, 15 Sep 2018 00:00:00 +0000</pubDate>
+      <link>https://moonblvd.github.io/brianyao_hugo/publication/fvl2019icra/</link>
+      <pubDate>Mon, 20 May 2019 00:00:00 +0000</pubDate>
       
-      <guid>https://moonblvd.github.io/brianyao_hugo/publication/future_vehicle_localiation/</guid>
+      <guid>https://moonblvd.github.io/brianyao_hugo/publication/fvl2019icra/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>The Smart Black Box: A Value-Driven Automotive Event Data Recorder</title>
+      <link>https://moonblvd.github.io/brianyao_hugo/publication/sbb2018itsc/</link>
+      <pubDate>Sun, 04 Nov 2018 00:00:00 +0000</pubDate>
+      
+      <guid>https://moonblvd.github.io/brianyao_hugo/publication/sbb2018itsc/</guid>
       <description></description>
     </item>
     

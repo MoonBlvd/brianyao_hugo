@@ -9,7 +9,7 @@ title = "RGBD SLAM"
 summary = "A simultaneous localization and mapping (SLAM) project using RGB-D data from a Microsoft Kinect."
 
 # Optional image to display on homepage (relative to `static/img/` folder).
-image_preview = "publications/rgbd-slam.png"
+image_preview = "projects/rgbd-slam.png"
 
 # Tags: can be used for filtering projects.
 # Example: `tags = ["machine-learning", "deep-learning"]`

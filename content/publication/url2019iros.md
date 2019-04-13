@@ -19,7 +19,7 @@ url_slides = ""
 url_video = ""
 
 [header]
-image = "publications/url2019iros.pdf"
+image = "publications/url2019iros.png"
 caption = "My caption :smile:"
 
 +++

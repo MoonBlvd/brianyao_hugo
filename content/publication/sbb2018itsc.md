@@ -14,12 +14,12 @@ title = "The Smart Black Box: A Value-Driven Automotive Event Data Recorder"
 url_code = ""
 url_dataset = ""
 url_pdf = "https://ieeexplore.ieee.org/stamp/stamp.jsp?arnumber=8569253"
-url_project = "project/SBB/"
+url_project = "project/smart-black-box/"
 url_slides = ""
 url_video = ""
 
 [header]
-image = "publications/shell-future-highways-new.jpeg"
+image = "publications/sbb2018itsc.png"
 caption = "My caption :smile:"
 
 +++

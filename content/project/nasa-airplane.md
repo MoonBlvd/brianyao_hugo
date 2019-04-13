@@ -9,7 +9,7 @@ title = "Variable Autonomy SUAS For NAS Integration"
 summary = "The overall project goal was to identify and track another small UAS that sporadically flew into and across the field of view."
 
 # Optional image to display on homepage (relative to `static/img/` folder).
-image_preview = "publications/nasa-detection.png"
+image_preview = "projects/nasa-detection.png"
 
 # Tags: can be used for filtering projects.
 # Example: `tags = ["machine-learning", "deep-learning"]`
@@ -22,7 +22,7 @@ tags = ["previous"]
 math = true
 
 [header]
-image = "publications/nasa-detection.png"
+image = "projects/nasa-detection.png"
 caption = "My caption :smile:"
 
 +++

@@ -6,20 +6,20 @@ authors = ["Yu Yao, Ella M Atkins"]
 date = "2018-10-26"
 image_preview = ""
 math = true
-publication_types = ["1"]
+publication_types = ["2"]
 publication = "IEEE Transactions on Intelligent Transportation Systems (Under review)"
 publication_short = "T-ITS"
 selected = false
 title = "The Smart Black Box: A Value-Driven High-Bandwidth Automotive Event Data Recorder"
 url_code = ""
 url_dataset = ""
-url_pdf = ""
-url_project = "project/SBB/"
+url_pdf = "https://arxiv.org/pdf/1903.01450.pdf"
+url_project = "project/smart-black-box/"
 url_slides = ""
 url_video = ""
 
 [header]
-image = "publications/SBB_FSM_diagram.png"
+image = "publications/sbb2018tits.png"
 caption = "My caption :smile:"
 
 +++

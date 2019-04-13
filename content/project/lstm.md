@@ -9,7 +9,7 @@ title = "Human Activity Recognition based on Recurrent Neural Network"
 summary = "This project proposes a promising human activity recognition approach based on long-short term memory (LSTM) method using the smartphone inertial sensor data."
 
 # Optional image to display on homepage (relative to `static/img/` folder).
-image_preview = "publications/lstm-structure.png"
+image_preview = "projects/lstm-structure.png"
 
 # Tags: can be used for filtering projects.
 # Example: `tags = ["machine-learning", "deep-learning"]`
@@ -22,7 +22,7 @@ tags = ["previous"]
 math = true
 
 [header]
-image = "publications/lstm-structure.png"
+image = "projects/lstm-structure.png"
 caption = "Structure of the recurrent neural network model."
 
 +++

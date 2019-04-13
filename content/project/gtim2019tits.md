@@ -9,7 +9,7 @@ title = "Smart Black Box"
 summary = "We are proposing a value-driven evernt data recorder for advanced and autonomous vehicles, called the Smart Black Box."
 
 # Optional image to display on homepage (relative to `static/img/` folder).
-image_preview = "publications/SBB_FSM_diagram.png"
+image_preview = "publications/sbb2018tits.png"
 
 # Tags: can be used for filtering projects.
 # Example: `tags = ["machine-learning", "deep-learning"]`
@@ -22,7 +22,7 @@ external_link = ""
 math = true
 # Optional featured image (relative to `static/img/` folder).
 [header]
-image = "publications/sbb-proj-background.png"
+image = "publications/sbb2018tits.png"
 caption = "The Smart Black Box pipeline. A deterministic Mealy mahcine is use as buffer management. The compressed simulation images are tested with object detection and semantic segmentation."
 +++
 We are proposing the pipeline of a value-driven evernt data recorder for advanced and autonomous vehicles, called the Smart Black Box.
@@ -33,3 +33,4 @@ We evaluate the reproducibility of the Smart Black Box compressed data by applyi
 
 
 
+s

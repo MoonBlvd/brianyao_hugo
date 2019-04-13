@@ -6,7 +6,7 @@ authors = ["Nan Li, Yu Yao, Ilya Kolmanovsky, Ella Atkins, Anouck Girard"]
 date = "2019-04-12"
 image_preview = ""
 math = true
-publication_types = ["1"]
+publication_types = ["2"]
 publication = "IEEE Transactions on Intelligent Transportation Systems (Under review)"
 publication_short = "T-ITS"
 selected = true
@@ -19,7 +19,7 @@ url_slides = ""
 url_video = ""
 
 [header]
-image = "publications/gtim2019tits.pdf"
+image = "publications/gtim2019tits.png"
 caption = "My caption :smile:"
 
 +++
