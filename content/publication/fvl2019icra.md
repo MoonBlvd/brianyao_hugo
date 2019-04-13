@@ -3,7 +3,7 @@ abstract = "Predicting the future location of vehicles is essential for safety-c
 
 abstract_short = ""
 authors = ["Yu Yao, Mingze Xu, Chiho Choi, David J Crandall, Ella M Atkins, Behzad Dariush"]
-date = "2019-5-20"
+date = "2019-05-20"
 image_preview = ""
 math = true
 publication_types = ["1"]
