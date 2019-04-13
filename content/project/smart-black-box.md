@@ -13,7 +13,7 @@ image_preview = "publications/sbb2018tits.png"
 
 # Tags: can be used for filtering projects.
 # Example: `tags = ["machine-learning", "deep-learning"]`
-tags = ["current"]
+tags = ["previous"]
 
 # Optional external URL for project (replaces project detail page).
 external_link = ""

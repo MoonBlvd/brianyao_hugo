@@ -14,7 +14,7 @@ title = "Realtime Rooftop Landing Site Identification and Selection in Urban Cit
 url_code = ""
 url_dataset = ""
 url_pdf = "https://arxiv.org/pdf/1903.03829.pdf"
-url_project = "project/url2019iros/"
+url_project = "project/unreal-landing/"
 url_slides = ""
 url_video = ""
 

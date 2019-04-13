@@ -14,7 +14,7 @@ title = "Game-Theoretic Modeling of Multi-Vehicle Interactions at Uncontrolled I
 url_code = ""
 url_dataset = ""
 url_pdf = "https://arxiv.org/pdf/1904.05423.pdf"
-url_project = "project/gtim2019tits/"
+url_project = "project/game-theoretic/"
 url_slides = ""
 url_video = ""
 

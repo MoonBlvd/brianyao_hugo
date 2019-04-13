@@ -14,7 +14,7 @@ title = "Unsupervised Traffic Accident Detection in First-Person Videos"
 url_code = ""
 url_dataset = ""
 url_pdf = "https://arxiv.org/pdf/1903.00618.pdf"
-url_project = "project/tad2019iros/"
+url_project = "project/traffic-anomaly-detection/"
 url_slides = ""
 url_video = ""
 
