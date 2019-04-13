@@ -14,7 +14,7 @@ title = "Egocentric Vision-based Future Vehicle Localization for Intelligent Dri
 url_code = ""
 url_dataset = ""
 url_pdf = "https://arxiv.org/pdf/1809.07408.pdf"
-url_project = "project/FOL/"
+url_project = "project/fol/"
 url_slides = ""
 url_video = ""
 

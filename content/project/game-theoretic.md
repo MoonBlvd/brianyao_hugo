@@ -22,7 +22,7 @@ external_link = ""
 math = true
 # Optional featured image (relative to `static/img/` folder).
 [header]
-image = "publications/v.png"
+image = "publications/gtim2019tits.png"
 caption = "A 10-car game at a randomly generated 5-arm intersection scenario. All cars are going through the intersection by optimizing the reward function between itself and each of other cars."
 +++
 
