@@ -19,7 +19,7 @@ url_slides = ""
 url_video = ""
 
 [header]
-image = "publications/shell-future-highways-new.jpeg"
+image = "publications/gtim2019tits.pdf"
 caption = "My caption :smile:"
 
 +++
