@@ -3,23 +3,23 @@ abstract = "Predicting the future location of vehicles is essential for safety-c
 
 abstract_short = ""
 authors = ["Yu Yao, Mingze Xu, Chiho Choi, David J Crandall, Ella M Atkins, Behzad Dariush"]
-date = "2018-09-15"
+date = "2019-5-20"
 image_preview = ""
 math = true
 publication_types = ["1"]
-publication = "2019 International Conference on Robotics and Automation (Accepted)"
+publication = "2019 International Conference on Robotics and Automation"
 publication_short = "ICRA2019"
 selected = true
 title = "Egocentric Vision-based Future Vehicle Localization for Intelligent Driving Assistance Systems"
 url_code = ""
 url_dataset = ""
 url_pdf = "https://arxiv.org/pdf/1809.07408.pdf"
-url_project = "project/FVL/"
+url_project = "project/fvl2019icra/"
 url_slides = ""
 url_video = ""
 
 [header]
-image = "publications/fvl_1.jpg"
+image = "publications/fvl2019icra.jpg"
 caption = "My caption :smile:"
 
 +++
