@@ -11,6 +11,36 @@
     <atom:link href="/brianyao_hugo/talk/" rel="self" type="application/rss+xml" />
     
     <item>
+      <title>Unsupervised Traffic Accident Detection in First-person Videos</title>
+      <link>https://moonblvd.github.io/brianyao_hugo/talk/iros2019/</link>
+      <pubDate>Sat, 02 Nov 2019 16:30:00 +0000</pubDate>
+      
+      <guid>https://moonblvd.github.io/brianyao_hugo/talk/iros2019/</guid>
+      <description>&lt;p&gt;Embed your slides or video here using &lt;a href=&#34;https://gcushen.github.io/hugo-academic-demo/post/writing-markdown-latex/&#34; target=&#34;_blank&#34;&gt;shortcodes&lt;/a&gt;. Further details can easily be added using &lt;em&gt;Markdown&lt;/em&gt; and $\rm \LaTeX$ math code.&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>Egocentric Vision-based Traffic Accident Detection using Future Object Localization</title>
+      <link>https://moonblvd.github.io/brianyao_hugo/talk/epiccvpr2019/</link>
+      <pubDate>Mon, 17 Jun 2019 14:00:00 +0000</pubDate>
+      
+      <guid>https://moonblvd.github.io/brianyao_hugo/talk/epiccvpr2019/</guid>
+      <description>&lt;p&gt;Embed your slides or video here using &lt;a href=&#34;https://gcushen.github.io/hugo-academic-demo/post/writing-markdown-latex/&#34; target=&#34;_blank&#34;&gt;shortcodes&lt;/a&gt;. Further details can easily be added using &lt;em&gt;Markdown&lt;/em&gt; and $\rm \LaTeX$ math code.&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>Egocentric Vision-based Future Vehicle Localization for Intelligent Driving Assistance Systems</title>
+      <link>https://moonblvd.github.io/brianyao_hugo/talk/icra2019/</link>
+      <pubDate>Wed, 22 May 2019 16:30:00 +0000</pubDate>
+      
+      <guid>https://moonblvd.github.io/brianyao_hugo/talk/icra2019/</guid>
+      <description>&lt;p&gt;Embed your slides or video here using &lt;a href=&#34;https://gcushen.github.io/hugo-academic-demo/post/writing-markdown-latex/&#34; target=&#34;_blank&#34;&gt;shortcodes&lt;/a&gt;. Further details can easily be added using &lt;em&gt;Markdown&lt;/em&gt; and $\rm \LaTeX$ math code.&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
       <title>Poster Session</title>
       <link>https://moonblvd.github.io/brianyao_hugo/talk/cav2019/</link>
       <pubDate>Sun, 28 Apr 2019 00:00:00 +0000</pubDate>
